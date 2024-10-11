@@ -1,0 +1,16 @@
+h1{
+    color: blue;
+    text-align: center;
+}
+p{
+    color: forestgreen;
+    text-align: center;
+}
+table{
+    background-color: blue;
+    margin: auto;
+    padding: 10px;
+    width: 50%;
+    text-align: center;
+    border-color: black;
+}
